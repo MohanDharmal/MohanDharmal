@@ -9,7 +9,7 @@ I have hands-on experience with the following technologies:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-092D33?style=flat&logo=django&logoColor=white)
 
-- **Python**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  - **Python**
 - **Django**
 - **Flask** (for smaller projects)
 
