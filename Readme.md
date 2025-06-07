@@ -2,6 +2,8 @@
 
 Hi there! I'm a passionate **Python Developer** with a deep interest in creating web applications, machine learning models, and working with cutting-edge technologies. I enjoy building projects that solve real-world problems and exploring new tools and techniques to improve my work.
 
+🧠 Just wandering through the world of code, chasing curiosity and building what excites me.
+
 ## 🚀 Technologies & Skills
 I have hands-on experience with the following technologies:
 
